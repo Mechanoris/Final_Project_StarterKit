@@ -62891,7 +62891,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 180875911577437144, guid: 056018618fd28c34b875a6c8ea381b19, type: 3}
       propertyPath: m_Name
-      value: Portal1
+      value: DialogTriggerWall
+      objectReference: {fileID: 0}
+    - target: {fileID: 180875911577437144, guid: 056018618fd28c34b875a6c8ea381b19, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3003499134645210873, guid: 056018618fd28c34b875a6c8ea381b19, type: 3}
       propertyPath: hud
