@@ -1,0 +1,16 @@
+{
+  "name": "SHDH2367Toolkit.Runtime",
+  "rootNamespace": "SHDH2367.Toolkit.Runtime",
+  "references": [
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
