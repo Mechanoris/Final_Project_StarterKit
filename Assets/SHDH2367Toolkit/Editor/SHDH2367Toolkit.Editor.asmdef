@@ -1,0 +1,19 @@
+{
+  "name": "SHDH2367Toolkit.Editor",
+  "rootNamespace": "SHDH2367.Toolkit.Editor",
+  "references": [
+    "SHDH2367Toolkit.Runtime",
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
